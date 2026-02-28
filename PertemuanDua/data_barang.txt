@@ -1,0 +1,3 @@
+B001,Mouse,20
+B002,Keyboard,15
+B003,Flashdisk,1
